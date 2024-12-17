@@ -1,0 +1,7 @@
+## Interface: 110005, 110007, 40401, 11505
+## Title: Masque: Glowy Item Border
+## Version: @project-version@
+## Author: plusmouse
+## Dependencies: Masque
+
+Skin.lua
